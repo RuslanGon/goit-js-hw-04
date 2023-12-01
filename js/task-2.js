@@ -36,4 +36,6 @@ function calcAverageCalories(days) {
     console.log(
       calcAverageCalories([])
     ); // 0
+
+    // Подскажите, не могу сообразить какое еще условие надо поставить
   
